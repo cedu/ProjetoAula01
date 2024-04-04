@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Carlos Eduardo\\source\\repos\\Turma-SQS-2024\\ProjetoAula01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5957F3AE-B8D4-4B2A-9A05-E5A6AB50DF97}|ProjetoAula01\\ProjetoAula01.csproj|c:\\users\\carlos eduardo\\source\\repos\\turma-sqs-2024\\projetoaula01\\projetoaula01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5957F3AE-B8D4-4B2A-9A05-E5A6AB50DF97}|ProjetoAula01\\ProjetoAula01.csproj|solutionrelative:projetoaula01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Eduardo\\source\\repos\\Turma-SQS-2024\\ProjetoAula01\\ProjetoAula01\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoAula01\\Program.cs",
+              "ToolTip": "C:\\Users\\Carlos Eduardo\\source\\repos\\Turma-SQS-2024\\ProjetoAula01\\ProjetoAula01\\Program.cs",
+              "RelativeToolTip": "ProjetoAula01\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:51:30.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

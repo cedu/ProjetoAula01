@@ -1,0 +1,14 @@
+C:\Users\Carlos Eduardo\source\repos\Turma-SQS-2024\ProjetoAula01\ProjetoAula01\bin\Debug\net8.0\ProjetoAula01.exe
+C:\Users\Carlos Eduardo\source\repos\Turma-SQS-2024\ProjetoAula01\ProjetoAula01\bin\Debug\net8.0\ProjetoAula01.deps.json
+C:\Users\Carlos Eduardo\source\repos\Turma-SQS-2024\ProjetoAula01\ProjetoAula01\bin\Debug\net8.0\ProjetoAula01.runtimeconfig.json
+C:\Users\Carlos Eduardo\source\repos\Turma-SQS-2024\ProjetoAula01\ProjetoAula01\bin\Debug\net8.0\ProjetoAula01.dll
+C:\Users\Carlos Eduardo\source\repos\Turma-SQS-2024\ProjetoAula01\ProjetoAula01\bin\Debug\net8.0\ProjetoAula01.pdb
+C:\Users\Carlos Eduardo\source\repos\Turma-SQS-2024\ProjetoAula01\ProjetoAula01\obj\Debug\net8.0\ProjetoAula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Eduardo\source\repos\Turma-SQS-2024\ProjetoAula01\ProjetoAula01\obj\Debug\net8.0\ProjetoAula01.AssemblyInfoInputs.cache
+C:\Users\Carlos Eduardo\source\repos\Turma-SQS-2024\ProjetoAula01\ProjetoAula01\obj\Debug\net8.0\ProjetoAula01.AssemblyInfo.cs
+C:\Users\Carlos Eduardo\source\repos\Turma-SQS-2024\ProjetoAula01\ProjetoAula01\obj\Debug\net8.0\ProjetoAula01.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Eduardo\source\repos\Turma-SQS-2024\ProjetoAula01\ProjetoAula01\obj\Debug\net8.0\ProjetoAula01.dll
+C:\Users\Carlos Eduardo\source\repos\Turma-SQS-2024\ProjetoAula01\ProjetoAula01\obj\Debug\net8.0\refint\ProjetoAula01.dll
+C:\Users\Carlos Eduardo\source\repos\Turma-SQS-2024\ProjetoAula01\ProjetoAula01\obj\Debug\net8.0\ProjetoAula01.pdb
+C:\Users\Carlos Eduardo\source\repos\Turma-SQS-2024\ProjetoAula01\ProjetoAula01\obj\Debug\net8.0\ProjetoAula01.genruntimeconfig.cache
+C:\Users\Carlos Eduardo\source\repos\Turma-SQS-2024\ProjetoAula01\ProjetoAula01\obj\Debug\net8.0\ref\ProjetoAula01.dll
